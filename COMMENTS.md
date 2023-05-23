@@ -1,3 +1,5 @@
+Atenção: Backend e Frontend podem ser encontrados em seus respectivos branches.
+
 Para executar as migrations e popular o banco de dados utilize:
 
 ```
