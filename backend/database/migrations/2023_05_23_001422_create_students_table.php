@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string("academic_registration_number")->unique();
             $table->string("document_number");
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 
